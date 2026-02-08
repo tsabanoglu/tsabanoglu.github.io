@@ -9,8 +9,10 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  {% for post in paginator.posts %}
-    {% include catalogue_item.html %}
+  {% for post in site.posts %}
+    {% unless post.sticky %}
+      {% include catalogue_item.html %}
+    {% endunless %}
   {% endfor %}
 </div>
 
