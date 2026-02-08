@@ -1,2 +1,6 @@
 title: maschinelle gelesen
-description: 
+description:
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
