@@ -21,6 +21,14 @@ layout: default
   <div class="post-line"></div>
 
   {{ content }}
+
+  {% if page.tags %}
+    <div class="tags-clouds">
+      {% for tag in page.tags %}
+        <a href="{{ '/tags' | prepend: site.baseurl }}#{{ tag | slugify }}">{{ tag }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
 </div>
 
 {% if page.comments %}

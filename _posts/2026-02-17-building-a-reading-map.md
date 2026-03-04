@@ -2,6 +2,7 @@
 title: Building a Reading Map
 date: 2026-02-17
 published: true
+tags: [python, reading, data, cli-tools, llama]
 ---
 
 A few months ago I went back to Goodreads after I picked up a popular book to see what people thought of it. I'd first signed up for Goodreads in 2010 to keep track of my reading and stopped using it altogether around 2021. In the meantime it boomed and turned into a momentum machine for the publishing industry. 

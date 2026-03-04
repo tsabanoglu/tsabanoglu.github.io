@@ -2,6 +2,7 @@
 title: Adventures with Claude Code
 date: 2026-02-08
 published: true
+tags: [python, claude-code, knitting, packages]
 ---
 
 #### Building things that build things
