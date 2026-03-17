@@ -1,0 +1,15 @@
+---
+title: Tears in Rain
+date: 2026-03-15
+published: true
+tags: [llms, writing]
+---
+
+
+A lot of learning is about mimicry and modelling your own knowledge on the ways in which others present theirs. At least for me, it's always been like that. I learnt my second and third languages like this: by approximating what I already know to how others represented language in their speech and writing. I watched, observed, listened, eavesdropped. I tried to glean a way of thinking behind the use of a certain expression. Another person's knowledge diffused into mine when we were in a shared learning environment. 
+
+A few days ago, I went on the German Language Stack Exchange website to see what the conversations were like there now, and I saw a question about an expression in a passage from the German translation of Philip K. Dick's novel *Valis*. First asked 12 years ago, resurrected later this February with two new answers. A funny coincidence because I'd read the novel for the second time recently, found the passage extremely relevant (the narrator was actually making a generalization about the German mind), even took a picture of it and sent it to a friend. The coincidence thrilled me because it was organic and not algorithmically manufactured based on my recent online activity. But I was also fascinated that someone found the exact passage from the same book we both read intriguing enough to post about it in a language forum, and others chimed in with their own interpretation and understanding (which was completely at odds with mine, by the way).
+
+Most of these conversations are now happening elsewhere between LLMs and humans, because the Stack Exchange family of websites are like dead malls. Physically still there, there is still some activity, but it makes you both sad and suspicious to see them (is it AI-generated content, are they just bots?). I spend a lot of time consulting Claude about various things and no doubt learn a lot and fast. But we're probably completely, entirely missing out on a particular kind of learning that the current form of the internet destroyed. It's either private conversations with LLMs or disingenuous, rage-baity discoursing on social media. Knowledge exchange as the kind we had on Stack Exchange pages (conversational, around a context, publicly archived) is done for unless we have a new renaissance of humans asking questions with humans responding to them.
+
+Funnily enough, exactly a day after I started drafting this, Andrew Ng wrote a [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7439343242816421889/) about a new project they're working on: a Stack Overflow type of platform where agents can exchange information, give each other feedback and provide documentation about coding projects. Very cool idea. But I'm still wondering: how humans and human feedback to AI-generated code and systems could still be integrated into this. I hope in the coming years of agentic AI, there emerges an avenue for us humans where we can act as more than mere orchestrators, however niche it might be.
